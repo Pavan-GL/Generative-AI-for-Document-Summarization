@@ -1,0 +1,36 @@
+2024-09-26 13:10:52,037 - INFO - Successfully extracted text from PDF.
+2024-09-26 13:10:52,039 - INFO - Extracted text from PDF.
+2024-09-26 13:10:52,042 - ERROR - Error in summarization: summarize_text() missing 1 required positional argument: 'text'
+2024-09-26 13:13:11,621 - INFO - Successfully extracted text from PDF.
+2024-09-26 13:13:11,622 - INFO - Extracted text from PDF.
+2024-09-26 13:13:11,625 - ERROR - Error in summarization: summarize_text() missing 1 required positional argument: 'text'
+2024-09-26 13:18:16,183 - ERROR - Error loading model or tokenizer: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2024-09-26 13:20:57,861 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:21:25,005 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:21:26,596 - INFO - Successfully extracted text from PDF.
+2024-09-26 13:21:26,599 - INFO - Extracted text length: 31339 characters
+2024-09-26 13:21:50,868 - INFO - Summary generated successfully.
+2024-09-26 13:22:21,275 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:22:25,897 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:22:26,889 - INFO - Successfully extracted text from PDF.
+2024-09-26 13:22:26,894 - INFO - Extracted text length: 25833 characters
+2024-09-26 13:22:51,668 - INFO - Summary generated successfully.
+2024-09-26 13:35:35,664 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:35:52,435 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:35:53,007 - INFO - Successfully extracted text from PDF.
+2024-09-26 13:35:53,011 - INFO - Extracted text length: 25833 characters
+2024-09-26 13:36:28,620 - INFO - Summary generated successfully.
+2024-09-26 13:37:12,696 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:37:12,839 - INFO - Successfully extracted text from DOCX.
+2024-09-26 13:37:12,842 - INFO - Extracted text length: 1222 characters
+2024-09-26 13:37:40,396 - INFO - Summary generated successfully.
+2024-09-26 13:37:53,600 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:41:36,487 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:41:57,773 - INFO - Model and tokenizer loaded successfully.
+2024-09-26 13:41:58,028 - INFO - Successfully extracted text from DOCX.
+2024-09-26 13:41:58,031 - INFO - Extracted text length: 17752 characters
+2024-09-26 13:42:16,247 - INFO - Summary generated successfully.
