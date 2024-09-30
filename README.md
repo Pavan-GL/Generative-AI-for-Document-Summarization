@@ -17,13 +17,13 @@ This project allows users to upload documents in PDF, DOCX, or TXT format and au
 
 ## Tech Stack
 
-Python: The primary programming language used for developing the application.
-Streamlit: A web framework used to create the interactive user interface, allowing users to upload documents and view summaries.
-Hugging Face Transformers: A library that provides pre-trained models for natural language processing tasks, specifically the T5 or BART model for text summarization.
-PyPDF2: A Python library for extracting text from PDF files, enabling the application to read and process PDF documents.
-python-docx: A Python library used for reading and extracting text from Microsoft Word (DOCX) documents.
-Pandas: Although not directly utilized in the current version, it can be incorporated for handling tabular data if needed in future enhancements.
-Streamlit: For building the user interface and presenting the summarized output to users.
+1. Python: The primary programming language used for developing the application.
+2. Streamlit: A web framework used to create the interactive user interface, allowing users to upload documents and view summaries.
+3. Hugging Face Transformers: A library that provides pre-trained models for natural language processing tasks, specifically the T5 or BART model for text summarization.
+4. PyPDF2: A Python library for extracting text from PDF files, enabling the application to read and process PDF documents.
+5. python-docx: A Python library used for reading and extracting text from Microsoft Word (DOCX) documents.
+6. Pandas: Although not directly utilized in the current version, it can be incorporated for handling tabular data if needed in future enhancements.
+7. Streamlit: For building the user interface and presenting the summarized output to users.
 
 ## Setup
 1. Clone this repository:
